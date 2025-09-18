@@ -1,3 +1,3 @@
 # badcommit
 
-readbear was here
+readbear
